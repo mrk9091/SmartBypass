@@ -187,21 +187,3 @@ kill $(cat /data/adb/smartbypass/bypass.pid)
 ## Author:
 
 Telegram: [mrk](https://t.me/mrkGL01)
-
----
-
-## Changelog
-
-### v1.0
-- Atomic PID locking via `flock` (eliminates instance race condition)
-- Write verification — confirms kernel accepted each sysfs write
-- `timeout 2` on all `dumpsys` calls — prevents infinite hangs
-- Game detection cached across cycles — reduces dumpsys overhead ~4×
-- Robust battery reader — validates every capacity node individually
-- Fixed emulated bypass: uses charger plug state, not charge status
-- Temperature rate stored as fixed-point integer — no precision loss
-- Bypass time accounting rewritten — accurate, no double-counting
-- Dynamic target (`DYN_TARGET`) persisted across restarts
-- All arithmetic guarded against unset/empty variables
-- All version labels unified to v1.0
-- 
