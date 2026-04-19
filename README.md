@@ -1,9 +1,6 @@
+![SmartBypass Banner](https://raw.githubusercontent.com/mrk9091/SmartBypass/main/f01ee74aadf0ed828fef38bd3b46ac02.jpg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrk9091/SmartBypass/main/f01ee74aadf0ed828fef38bd3b46ac02.jpg" 
-       alt="SmartBypass" 
-       style="border-radius: 16px; max-width: 100%;" />
-</p>
+
 # SmartBypass v1.0
 
 **Advanced bypass charging for all Android devices.**  
