@@ -184,10 +184,8 @@ kill $(cat /data/adb/smartbypass/bypass.pid)
 
 ---
 
-## Authors
-
-mrk / gellado / yubk
-
+## Author:
+Telegram: t.me/mrkGL01
 ---
 
 ## Changelog
