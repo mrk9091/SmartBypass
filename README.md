@@ -186,7 +186,7 @@ kill $(cat /data/adb/smartbypass/bypass.pid)
 
 ## Author:
 
-Telegram: [@mrk](t.me/mrkGL01)
+Telegram: [mrk](https://t.me/mrkGL01)
 
 ---
 
